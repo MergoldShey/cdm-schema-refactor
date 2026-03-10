@@ -1,5 +1,6 @@
 {
   "dependencies": {
     "logrocket": "^12.1.0"
-  }
+  },
+  "type": "module"
 }
