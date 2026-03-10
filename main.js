@@ -10,5 +10,5 @@ LogRocket.identify('shiphrah_test_user', {
 });
 
 // A simple function to trigger a log event
-console.log("LogRocket session started: Monitoring clinical_data_infrastructure");
+console.log("LogRocket session started: Monitoring cdm-schema-refactor");
 LogRocket.log("The system has successfully initialized the tracking layer.");
